@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "791833954028",
+    "project_id": "atechyapp-9d5f8",
+    "storage_bucket": "atechyapp-9d5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791833954028:android:44e54048a992c9f5b7c7c9",
+        "android_client_info": {
+          "package_name": "com.atechy.atechyandroidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791833954028-1mvkb9aq3t9450498gli95i8k0tdbvj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgvF1_QAI4KzfqsjlghW2H9GAYpG5l0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791833954028-1mvkb9aq3t9450498gli95i8k0tdbvj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791833954028:android:a73d0c8722fa15e9b7c7c9",
+        "android_client_info": {
+          "package_name": "com.example.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791833954028-1mvkb9aq3t9450498gli95i8k0tdbvj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgvF1_QAI4KzfqsjlghW2H9GAYpG5l0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791833954028-1mvkb9aq3t9450498gli95i8k0tdbvj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

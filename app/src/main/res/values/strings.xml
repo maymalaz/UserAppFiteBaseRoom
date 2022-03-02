@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="new_user">New user ?</string>
+    <string name="complete_form">Please Enter email and password</string>
+    <string name="mobile">Mobile</string>
+    <string name="name">Name</string>
+    <string name="password_length">password must be at least 6 characters</string>
+
+
+</resources>
